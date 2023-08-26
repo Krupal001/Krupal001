@@ -1,6 +1,7 @@
+![logo](https://github.com/Krupal001/Krupal001/assets/120180421/a62f8e1b-2709-4a52-ac22-6408413b0100)
 <h1 align="center">Hi 👋, I'm Krupal Pandya</h1>
 <h3 align="center">A passionate software developer from India</h3>
-
+<img align="right" width="400px" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krupal001&label=Profile%20views&color=0e75b6&style=flat" alt="krupal001" /> </p>
 
 - 🌱 I’m currently learning **Python,Android**
